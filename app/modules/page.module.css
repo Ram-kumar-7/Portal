@@ -1,0 +1,13 @@
+.layoutContainer {
+    height: 100vh;
+    width: 100%;
+    background: #dbdbdd;
+    display: flex !important
+}
+
+.childrenContainer{
+    width: 100%;
+    margin: 15px;
+    margin-left: 5px;
+    background-color: #7373c6;
+}

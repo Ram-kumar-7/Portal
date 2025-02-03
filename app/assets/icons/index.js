@@ -1,0 +1,1 @@
+export { SideBarIcons } from './svg/side-bar'
